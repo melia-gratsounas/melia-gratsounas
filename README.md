@@ -6,7 +6,7 @@ I’m a full-stack developer based in Wellington, New Zealand. I am passionate a
 
 ## 🌟 About Me
 
-I recently completed a fully immersive 15-week web development Bootcamp at Dev Academy. Through this, I gained hands-on experience with building web applications and working with modern technologies in both individual and group settings through Agile methodology. I enjoy the backend side of development, so I like to work with databases, APIs and server side logic. 
+I recently completed a fully immersive 800 hour web development Bootcamp at Dev Academy. Through this, I gained hands-on experience with building web applications and working with modern technologies in both individual and group settings through Agile methodology. I learnt how to code from scratch and put those new skills to the test in daily projects that I enjoyed doing. Alongside the code and technical side of the Bootcamp, I also got to learn essential human skills. Our weekly human skills sessions allowed me to learn how to communicate through difficult situations and how to give and receive feedback.  I enjoy the backend side of development, so I like to work with databases, APIs and server side logic. 
 
 When I'm not coding, you'll find me at the gym or with my family. I enjoy going to the gym because it helps me to stay active while also having some me time. Family time is equally as important to me as it keeps me grounded and reminds me of what matters beyond my studies. 
 
