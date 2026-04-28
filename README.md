@@ -20,7 +20,7 @@ HiddenGemz is a full-stack community-driven platform designed to help you discov
 
 knex-todo-cli
 
-This is a simple command-line todo application built using Knex as the query builder to interact with a SQLite3 database. It allows users to manage a list of todos directly from the terminal, with all data being stored persistently in a database rather than in memory. This project focuses on building a strong understanding of backend data handling, including creating, reading, updating, and deleting records using Knex.
+This is a simple command-line todo application built using Knex as the query builder to interact with a SQLite3 database. It allows users to manage a list of todos directly from the terminal, with all data being stored persistently in a database rather than in memory. This project focuses on building a strong understanding of backend data handling, including creating, reading, updating, and deleting records using Knex. 
 
 my-fullstack-collection
 
